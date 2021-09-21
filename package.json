@@ -1,0 +1,42 @@
+{
+  "name": "holidates-cli",
+  "version": "1.0.0",
+  "description": "npm basics",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "center-align": "^1.0.1",
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
+    "country-list": "^2.2.0",
+    "figlet": "^1.5.2",
+    "moment": "^2.29.1",
+    "ora": "^6.0.1",
+    "prompts": "^2.4.1"
+  },
+  "devDependencies": {},
+  "bin": {
+    "anja-dhnd": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anja-dhnd/holidates-CLI.git"
+  },
+  "keywords": [
+    "chalk",
+    "figlet",
+    "axios",
+    "country-list",
+    "holidays",
+    "dates"
+  ],
+  "author": "anja-dhnd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anja-dhnd/holidates-CLI/issues"
+  },
+  "homepage": "https://github.com/Anja-dhnd/holidates-CLI#readme"
+}
